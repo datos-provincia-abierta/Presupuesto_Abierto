@@ -1,0 +1,269 @@
+{
+"incisos" : 
+	[
+		{
+			"inciso": "Gastos en Personal",
+			"descripcion": "Pago de los servicios personales prestados en relación de dependencia y a los miembros de directorios y comisiones fiscalizadoras de empresas públicas, y las correspondientes contribuciones patronales. Incluye además retribuciones por asignaciones familiares, servicios extraordinarios, y prestaciones sociales recibidas por los trabajadores del Estado Provincial.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Personal permanente",
+					"descripcion" : "Retribuciones y contribuciones patronales del personal que se desempeña en cargos o es titular de horas de cátedra correspondientes al personal permanente de las distintas entidades del Sector Público Provincial."
+				}
+				,{
+					"partida principal" : "Personal temporario",
+					"descripcion" : "Retribuciones y contribuciones patronales del personal de las plantas no permanentes del personal transitorio y contratado."
+				}
+			]
+		}
+		,{
+			"inciso": "Bienes de consumo",
+			"descripcion": "Materiales y suministros que se insumen para el funcionamiento de los entes estatales.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Productos alimenticios, agropecuarios y forestales",
+					"descripcion" : "Bebidas y productos alimenticios, manufacturados o no;  forrajes y otros alimentos para animales, productos agrícolas, ganaderos y de la silvicultura, caza y pesca. Incluye el pago de gastos de comida, refrigerio, almuerzos o cenas de trabajo y el reintegro de gastos en concepto de racionamiento o sobre-ración."
+				}
+				,{
+					"partida principal" : "Textiles y vestuarios",
+					"descripcion" : "Fibras y tejidos, y confecciones de distinto tipo."
+				}
+				,{
+					"partida principal" : "Productos de papel, cartón e impresos",
+					"descripcion" : "Pulpa de madera, papel y cartón, envases y cajas de papel y cartón, productos de papel y cartón para oficinas, libros, revistas y periódicos, material de enseñanza, productos de papel y cartón para computación, imprenta y reproducción y otros productos de pulpa, papel y cartón."
+				}
+				,{
+					"partida principal" : "Productos de cuero y caucho",
+					"descripcion" : "Cueros crudos y cueros en sus distintos tipos, hules y similares y caucho en sus distintas elaboraciones."
+				}
+				,{
+					"partida principal" : "Productos químicos y medicinales",
+					"descripcion" : "Drogas, abonos, fertilizantes, plaguicidas y demás productos químicos y medicinales y productos de ramas industriales relacionadas."
+				}
+				,{
+					"partida principal" : "Productos metálicos",
+					"descripcion" : "Productos metálicos sin elaborar y semi elaborados y sus manufacturas."
+				}
+				,{
+					"partida principal" : "Productos de la minería, petróleo y sus derivados",
+					"descripcion" : "Minerales sólidos, minerales metalíferos y no metalíferos, petróleo crudo y sus derivados, gas natural, piedras y arena."
+				}
+				,{
+					"partida principal" : "Otros bienes de consumo",
+					"descripcion" : "Otros bienes de consumo utilizados en oficinas, establecimientos de enseñanza, cocinas y comedores, establecimientos hospitalarios y laboratorios, como así también materiales eléctricos y de limpieza no incluidos en otras partidas."
+				}
+			]
+		}
+		,{
+			"inciso": "Servicios no personales",
+			"descripcion": "Servicios para el funcionamiento de los entes estatales, incluidos los que se destinan a conservación y reparación de bienes de capital. Comprende también los servicios utilizados en los procesos productivos, por las entidades que desarrollan actividades comerciales, industriales o de servicios.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Servicios básicos",
+					"descripcion" : "Servicios de provisión de electricidad, gas, agua y de comunicaciones. Comprende el pago de los servicios de las partidas parciales detalladas a continuación: 1) energía eléctrica; 2) agua; 3) Gas; 4) Teléfonos, internet y video por cable; 5) Telefonía celular; 6) Correos y telégrafos; 7) Otros no especificados."
+				}
+				,{
+					"partida principal" : "Alquileres y derechos",
+					"descripcion" : "Alquiler de toda clase de bienes inmuebles, muebles y semovientes (que son capaces de moverse por sí solo). Incluye, asimismo, el pago de derechos sobre bienes intangibles y los relativos a los contratos de tipo 'leasing'."
+				}
+				,{
+					"partida principal" : "Mantenimiento, reparación y limpieza",
+					"descripcion" : "Servicios prestados para el funcionamiento dentro del régimen del contrato de suministros para limpieza, desinfección, conservación y reparación (pintura, refacciones y mantenimiento)."
+				}
+				,{
+					"partida principal" : "Servicios técnicos y profesionales",
+					"descripcion" : "Honorarios legales o convencionales a profesionales universitarios, especialistas y técnicos, sin relación de dependencia y los servicios de consultoría y asesoría prestados por terceros relacionados con estudios, investigaciones, análisis, auditorías, sistemas computarizados, etc."
+				}
+				,{
+					"partida principal" : "Servicios técnicos y profesionales",
+					"descripcion" : "Honorarios legales o convencionales a peritos profesionales universitarios, especialistas y técnicos, sin relación de dependencia y los servicios de consultoría y asesoría prestados por terceros relacionados con estudios, investigaciones, análisis, auditorías, sistemas computarizados, etc."
+				}
+				,{
+					"partida principal" : "Publicidad y propaganda",
+					"descripcion" : "Gastos en publicidad y propaganda por medio de radiodifusoras, televisión, cines, teatros, periódicos, revistas, folletos, carteles, etc. Incluye los contratos con las agencias publicitarias y productoras cinematográficas y televisivas."
+				}
+				,{
+					"partida principal" : "Pasajes viáticos y compensaciones",
+					"descripcion" : "Asignaciones que se otorgan al personal con motivo de la prestación de servicios fuera del lugar habitual de trabajo."
+				}
+				,{
+					"partida principal" : "Impuestos, derechos y tasas",
+					"descripcion" : "Impuestos, derechos, tasas, regalías, multas, recargos y fallos judiciales en los casos no incluidos en otras partidas de este clasificador."
+				}
+				,{
+					"partida principal" : "Otros Servicios",
+					"descripcion" : "Gastos en servicios no personales no especificados en las restantes partidas."
+				}
+			]
+		}
+		,{
+			"inciso": "Bienes de uso",
+			"descripcion": "Gastos en la compra o construcción de bienes de capital que aumentan el activo de las entidades estatales en un período dado: bienes físicos, construcciones y/o equipos que sirven para producir otros bienes o servicios. No se agotan en el primer uso que de ellos se hace, tienen una duración superior a un año y están sujeto a depreciación. Incluye, asimismo, los activos intangibles.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Bienes preexistentes",
+					"descripcion" : "Incluye la compra de bienes físicos, ya existentes."
+				}
+				,{
+					"partida principal" : "Construcciones ",
+					"descripcion" : "Incluye la realización de obras (no así el valor de la tierra), y las ampliaciones que mejoran las construcciones ya existentes. Comprende, asimismo, los estudios necesarios para la construcción de un proyecto pre-meditado en un área y con objetivos determinados."
+				}
+				,{
+					"partida principal" : "Maquinaria, equipo y soft",
+					"descripcion" : "Maquinarias, equipos y accesorios que se usan o complementan a la unidad principal."
+				}
+				,{
+					"partida principal" : "Equipo de seguridad",
+					"descripcion" : "Equipamiento destinado al mantenimiento del orden público."
+				}
+				,{
+					"partida principal" : "Libros, revistas y otros elementos coleccionables ",
+					"descripcion" : "Adquisición de libros, revistas, mapas, películas cinematográficas impresas, video, discos fonoeléctricos y otros elementos destinados a la formación de colecciones."
+				}
+				,{
+					"partida principal" : "Obras de arte",
+					"descripcion" : "Colecciones artísticas y ornamentarles, tales como: pinturas, estatuas, tallas, antigüedades, etc."
+				}
+				,{
+					"partida principal" : "Semovientes",
+					"descripcion" : "Ganado de diferentes especies y todo tipo de animales adquiridos con fines de reproducción, trabajo u ornamento."
+				}
+				,{
+					"partida principal" : "Instalaciones",
+					"descripcion" : "Instalaciones internas de comunicación, electricidad, gas, agua, aire, vapor, etc., así como sistemas contra incendio, de alarma y otros, tabiques, accesorios, casillas, garitas, etc. en edificios, talleres o establecimientos existentes."
+				}
+				,{
+					"partida principal" : "Activos intangibles",
+					"descripcion" : "Adquisición de derechos por el uso de activos de la propiedad industrial, comercial, intelectual y otros."
+				}
+			]
+		}
+		,{
+			"inciso": "Transferencias",
+			"descripcion": "Gastos en transacciones que no suponen la contraprestación de bienes o servicios y que no son devueltos por los beneficiarios.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Transferencias al sector privado para financiar gastos corrientes",
+					"descripcion" : "Subsidios para atender gastos corrientes a favor de entidades o personas. Incluye:<ul><li>becas de estudio y de investigación</li><li>gastos necesarios para el desarrollo de actividades profesionales y de investigación</li><li>ayuda a personas de escasos recursos</li><li>entrega de premios ya sea en dinero o en especies.</li></ul>"
+				}
+				,{
+					"partida principal" : "Transferencias al sector privado para financiar gastos de capital.",
+					"descripcion" : "Subsidios para atender gastos de capital a favor de entidades o personas. Incluye:<ul><li>ayuda para equipamiento de investigación</li><li>ayuda a personas de escasos recursos para la compra de bienes de capital.</li></ul>"
+				}
+				,{
+					"partida principal" : "Transferencias a municipalidades, entes provinciales, a otros gobiernos provinciales y a entes del gobierno nacional para financiar gastos corrientes.",
+					"descripcion" : "Incluye:<li>transferencias a municipios por participación impositiva</li><li>subsidios a municipalidades</li><li>transferencias a entes del gobierno provincial y a otros estados provinciales, y a entes del gobierno nacional, para que financien gastos corrientes.</li></ul>"
+				}
+				,{
+					"partida principal" : "Transferencias a municipalidades, entes provinciales, a otros gobiernos provinciales y a entes del gobierno nacional para financiar gastos de capital.",
+					"descripcion" : "Incluye:<ul><li>transferencias a municipios por participación impositiva</li><li>subsidios a municipalidades</li><li>transferencias a entes del gobierno provincial y a otros estados provinciales, y a entes del gobierno nacional, para financiar gastos de capital.</li></ul>"
+				}
+				,{
+					"partida principal" : "Transferencias al sector público empresarial para financiar gastos corrientes.",
+					"descripcion" : "Transferencias a organismos interjurisdiccionales y a empresas del sector público provincial para financiar gastos corrientes."
+				}
+				,{
+					"partida principal" : "Transferencias al sector público empresarial para financiar gastos de capital",
+					"descripcion" : "Transferencias a organismos interjurisdiccionales y a empresas del sector público provincial para financiar gastos de capital."
+				}
+				,{
+					"partida principal" : "Transferencias a empresas públicas financieras para financiar gastos de corrientes.",
+					"descripcion" : ""
+				}
+				,{
+					"partida principal" : "Transferencias a empresas públicas financieras para financiar gastos de capital.",
+					"descripcion" : ""
+				}
+				,{
+					"partida principal" : "Transferencias al sector externo",
+					"descripcion" : "Incluye transferencias a gobiernos extranjeros, organismos internacionales y otros entes del sector externo para financiar gastos de capital y corrientes"
+				}
+			]
+		}
+		,{
+			"inciso": "Activos financieros",
+			"descripcion": "Gastos por compra de valores de crédito, acciones, títulos y bonos (públicos y privados). Otorgamiento de préstamos, incremento de: disponibilidades, de cuentas y documentos a cobrar, de activos diferidos, y adelantos a proveedores y contratistas.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Aportes de capital",
+					"descripcion" : "Aportes de capital directos o mediante la compra de acciones u otros valores representativos de capital a organismos provinciales, interjurisdiccionales, privados e internacionales."
+				}
+				,{
+					"partida principal" : "Préstamos a corto plazo",
+					"descripcion" : "Préstamos directos a corto plazo otorgados al sector público, al sector privado y externo."
+				}
+				,{
+					"partida principal" : "Préstamos a largo plazo",
+					"descripcion" : "Préstamos directos a largo plazo otorgados al sector público, a los sectores privado y externo."
+				}
+				,{
+					"partida principal" : "Títulos y valores",
+					"descripcion" : "Compra de títulos y valores representativos de deudas a corto y largo plazo."
+				}
+				,{
+					"partida principal" : "Incremento de disponibilidades",
+					"descripcion" : "Asignaciones de recursos que aumentan los saldos de caja y bancos y otros activos financieros temporarios durante y/o al final del ejercicio con relación al saldo inicial."
+				}
+				,{
+					"partida principal" : "Incremento de cuentas y documentos a cobrar",
+					"descripcion" : "Asignación de recursos que permiten el aumento del saldo 'deudores' durante el ejercicio."
+				}
+				,{
+					"partida principal" : "Incremento de activos diferidos y adelantos a proveedores y contratistas",
+					"descripcion" : "Gastos en anticipos financieros y activos diferidos que se entregan a los proveedores y contratistas del sector público."
+				}
+			]
+		}
+		,{
+			"inciso": "Servicio de la deuda y disminución de otros pasivos",
+			"descripcion": "Gastos destinados al pago del servicio de la deuda pública y disminución de otros pasivos del sector público provincial. Incluye los cambios por actualización de diferencias de tipo de cambio y/o por cláusulas de ajustes, como así también las comisiones y otros gastos.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Servicio de la deuda interna",
+					"descripcion" : "Gastos destinados a pagar los intereses, amortizaciones y otros gastos de la deuda interna de organismos del sector público provincial, representada por empréstitos, títulos, bonos, etc."
+				}
+				,{
+					"partida principal" : "Servicio de la deuda externa",
+					"descripcion" : "Gastos destinados a pagar los intereses, amortizaciones y otros gastos de la deuda externa de organismos del sector público provincial, representada por empréstitos, títulos, bonos, etc."
+				}
+				,{
+					"partida principal" : "Intereses por préstamos recibidos",
+					"descripcion" : "Gastos destinados a pagar los intereses de los préstamos de corto y largo plazo."
+				}
+				,{
+					"partida principal" : "Disminución de préstamos a corto plazo",
+					"descripcion" : "Gastos destinados a atender la cancelación, total o parcial de los préstamos a corto plazo."
+				}
+				,{
+					"partida principal" : "Disminución de préstamos a largo plazo",
+					"descripcion" : "Gastos destinados a atender la cancelación, total o parcial de los préstamos a largo plazo."
+				}
+				,{
+					"partida principal" : "Disminución de cuentas y documentos a pagar",
+					"descripcion" : "Asignación de recursos que permiten disminuir las cuentas y documentos a pagar del Sector Público Provincial."
+				}
+				,{
+					"partida principal" : "Disminución de otros pasivos",
+					"descripcion" : ""
+				}
+			]
+		}
+		,{
+			"inciso": "Otros gastos",
+			"descripcion": "Gastos del sector público provincial financiero y no financiero no incluidas en las partidas anteriores. Además, incluye las partidas correspondientes para atender los gastos originados en ejercicios anteriores.",
+			"partidas principales" : [
+				{
+					"partida principal" : "Amortización",
+					"descripcion" : "Cuotas de amortización anual de los bienes del activo fijo."
+				}
+				,{
+					"partida principal" : "Descuentos y bonificaciones",
+					"descripcion" : "Gastos para atender las transacciones que realiza la entidad por concepto de descuentos y bonificaciones que se efectúan por la venta de bienes y/o servicios producidos."
+				}
+				,{
+					"partida principal" : "Otras pérdidas",
+					"descripcion" : "Gastos por pérdidas anuales en que pueden incurrir los organismos públicos o empresas (pérdidas por operaciones cambiarias, por inventarios, autoseguro, reservas técnicas, primas de emisión, etc.)"
+				}
+			]
+		}
+	]
+}

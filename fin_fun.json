@@ -1,0 +1,202 @@
+{
+"finalidades":
+	[
+		{
+			"finalidad" : "Servicios Sociales",
+			"descripcion" : "Acciones relacionadas a la prestación de servicios de salud, promoción y asistencia social, seguridad social, educación, cultura, ciencia y técnica, trabajo, vivienda, agua potable, alcantarillado y otros servicios urbanos.",
+			"funciones" : [
+				{ 	
+					"funcion": "Salud",
+					"descripcion": "Comprenden acciones destinadas a asegurar el buen estado de salud de la comunidad. Incluye: <ul><li>la prevención y tratamiento de las enfermedades</li><li>la creación, ampliación y mantenimiento de la infraestructura de los hospitales</li><li>la administración de la salud, en general. </li></ul>"
+				}
+				,{ 
+					"funcion": "Promoción y asistencia social",
+					"descripcion": "Comprende aportes a instituciones con fines sociales para impulsar actividades en beneficio del desarrollo social, y acciones relacionadas a:<ul><li><li>la protección y ayuda directa a personas necesitadas, a través de aportes monetarios y materiales</li>la reeducación e integración de los ciudadanos.</li></ul>"
+				}
+				,{ 
+					"funcion": "Seguridad social",
+					"descripcion": "Acciones destinadas a asegurar el bienestar económico de los individuos, que por distintos motivos dejaron de aportar al proceso productivo. Comprende el pago de:<ul><li>pensiones</li><li>retiros</li><li>jubilaciones</li><li>seguro de desempleo.</li></ul>"
+				}
+				,{ 
+					"funcion": "Educación y cultura",
+					"descripcion": "Acciones relacionadas a:<ul><li>el desarrollo o perfeccionamientos de las facultades intelectuales y morales de los ciudadanos</li><li>la difusión y enseñanza de conocimientos para el beneficio de la comunidad.</li><li>manifestaciones intelectuales, espirituales y religiosas de la comunidad, difusión de conocimiento, cursos de extensión y espectáculos públicos culturales.</li></ul>",
+					"subfunciones": [
+						{
+							"subfuncion" : "Educación Elemental, Media, Superior y Universitaria",
+							"descripcion" : "Difusión y enseñanza de conocimientos, que sirven para satisfacer necesidades de la comunidad. Comprende las acciones destinadas a la educación de la comunidad en todos los niveles y especialidades."
+						},
+						{
+							"subfuncion" : "Servicios culturales",
+							"descripcion" : "Manifestaciones intelectuales, espirituales y religiosas de la comunidad, difusión de conocimiento, cursos de extensión y espectáculos públicos culturales; museos, bibliotecas, monumentos y lugares históricos"
+						}
+					]
+				}
+				,{ 
+					"funcion": "Ciencia y técnica",
+					"descripcion": "Actividades relacionadas a obtener nuevos conocimientos, o investigar sus aplicaciones. Incluye: <ul><li>investigación y desarrollo</li><li>transferencia de tecnología</li><li>educación de postgrado para formación de investigadores</li><li>promoción de las actividades científicas y técnicas.</li></ul>"
+				}
+				,{ 
+					"funcion": "Asuntos laborales",
+					"descripcion": "Acciones de control del cumplimiento de las normas laborales, de higiene y seguridad del trabajo; de asesoramiento a trabajadores y empleadores, y educación preventiva. Además, incluye el estudios y orientación del potencial de la mano de obra para planificar el desarrollo económico social."
+				}
+				,{ 
+					"funcion": "Vivienda y urbanismo",
+					"descripcion": "Acciones relacionadas al desarrollo habitacional con el fin de dar la posibilidad a los ciudadanos de acceder a una vivienda. Además, procura una correcta infraestructura urbanística."
+				}
+				,{ 
+					"funcion": "Protección del medio ambiente y agua potable",
+					"descripcion": "Acciones destinadas a controlar la explotación de los recursos naturales (bosques naturales y parques provinciales), proteger el medio (físico, biológico y social) en el que se se desenvuelve el ciudadano y asegurar el equilibrio ecológico, para resguardar la salud y la educación en este sentido.",
+					"subfunciones": [
+						{
+							"subfuncion" : "Ecología y saneamiento ambiental",
+							"descripcion" : "Acciones relacionadas a:<ul><li>el control de la explotación de los recursos naturales</li><li>la protección de la flora y fauna autóctona</li><li>el mantenimiento de las reservas naturales y parques provinciales</li><li>la minimización de los factores de riesgo para la salud de la población</li><li>el tratamiento de residuos industriales, desechos, contaminación del aire, agua y suelo</li><li>la creación, mejora y mantenimiento de la infraestructura necesaria para asegurar buenas condiciones ambientales.</li></ul>"
+						},
+						{
+							"subfuncion" : "Agua potable, alcantarillado y desagües pluviales",
+							"descripcion" : "Acciones relacionadas a:<ul><li>la ingeniería sanitaria</li><li>el suministro de agua potable</li><li>el sistema de eliminación de excretas en zonas urbanas y rurales, alcantarillado</li><li>desagües pluviales en zonas urbanas.</li></ul>"
+						}
+					]
+				
+				}
+				,{ 
+					"funcion": "Deportes y recreación",
+					"descripcion": "Acciones relacionadas a la promoción de las actividades deportivas y de cultura física, y gastos destinados a brindar recreación y esparcimiento a la población."
+				}
+			]
+		}
+		,{
+			"finalidad" : "Servicios Económicos",
+			"descripcion" : "Acciones de apoyo a la producción de bienes y servicios importantes para el desarrollo económico. Incluye acciones que promueven, regulan y controlan el sector privado y público.",
+			"funciones" : [
+				{ 	
+					"funcion": "Energía, combustibles y minería",
+					"descripcion": "Comprende acciones relacionadas a:<ul><li>la protección, producción, transporte y suministro de energía eléctrica</li><li>la compra, construcción, equipamiento y operación de embalses, usinas y sistemas para la producción, transporte y distribución de energía</li><li>la promoción, regulación y control de dichas acciones y las relacionadas a la búsqueda de nuevas fuentes de energía y de combustibles</li><li>la explotación y extracción de arenas y piedras y otros minerales no combustibles.</li></ul>"
+				}
+				,{ 
+					"funcion": "Comunicaciones",
+					"descripcion": "Acciones relacionadas a la instalación, mantenimiento, mejora y prestación de servicios públicos de comunicaciones, acciones de medios masivos de comunicación, y su control técnico."
+				}
+				,{ 
+					"funcion": "Transporte",
+					"descripcion": "Acciones relacionadas al servicio público de transporte ferroviario, vial, por agua y aéreo.",
+					"subfunciones": [
+						{
+							"subfuncion" : "Transporte terrestre",
+							"descripcion" : "Acciones relacionadas a la promoción, fiscalización, construcción y/o mantenimiento de rutas, caminos y ramales ferroviarios, y a las inversiones para su normal operatividad."
+						},
+						{
+							"subfuncion" : "Transporte marítimo y fluvial",
+							"descripcion" : "Acciones tendientes a promocionar el transporte marítimo y fluvial, inspeccionarlo, construir y/o mantener puertos y vías navegables y realizar las inversiones y gastos que permitan su normal operatividad."
+						},
+						{
+							"subfuncion" : "Transporte aéreo",
+							"descripcion" : "Acciones tendientes a promocionar el transporte aéreo, fiscalizarlo, construir pistas y aeropuertos, y procurar los medios de transporte adecuados e inversiones necesarias para su normal operatividad."
+						}
+					]
+				}
+				,{ 
+					"funcion": "Suelo, riego, desagües y drenajes",
+					"descripcion": "Acciones destinadas a aprovechar mejor las tierras para las explotaciones agropecuarias. Esto incluye, entre otras cosas:<ul><li>la defensa contra la erosión eólica e hídrica y contra las inundaciones</li><li>el riego de zonas áridas y el drenaje de las anegadizas</li><li>el alcantarillado y desagües pluviales, en las zonas rurales.</li></ul>"
+				}
+				,{ 
+					"funcion": "Agricultura, ganadería y recursos naturales renovables",
+					"descripcion": "Acciones relacionadas a la promoción, regulación y control de:<ul><li>la producción agrícola, ganadera, avícola y apícola</li><li>la caza comercial</li><li>la protección de la fauna</li><li>el suministro semillas</li><li>la erradicación de plagas</li><li>la explotación ictícola comercial y protección e incremento de ésta.</li></ul>"
+				}
+				,{ 
+					"funcion": "Industria",
+					"descripcion": "Acciones relacionadas a la promoción, regulación y control de las industrias en la provincia."
+				}
+				,{ 
+					"funcion": "Comercio, finanzas, seguros y almacenaje",
+					"descripcion": "Incluye la promoción y el control de:<ul><li>actividades comerciales, actividades relacionadas a servicios bancarios y la actividad de seguros en general</li><li>servicios de depósitos o almacenaje de bienes, que se realicen con suficiente independencia de los transportes o de quienes insumen o producen tales bienes.</li></ul>",
+					"subfunciones": [
+						{
+							"subfuncion" : "Comercio, almacenaje y otros servicios",
+							"descripcion" : "Acciones relacionadas a la promoción y control de las actividades comerciales y servicios de depósitos o almacenaje de bienes, que se realicen con suficiente independencia de los transportes o de quienes usan como insumo o producen tales bienes."
+						},
+						{
+							"subfuncion" : "Seguros y finanzas",
+							"descripcion" : "Actividades financieras (servicios bancarios) y de seguros en general."
+						}
+					]
+				}
+				,{ 
+					"funcion": "Turismo",
+					"descripcion": "Acciones encaminadas a la promoción del turismo a través de la divulgación, fomento y conocimiento de zonas de la provincia."
+				}
+			]
+		}
+		,{
+			"finalidad" : "Deuda pública",
+			"descripcion" : "Erogaciones destinadas a atender los gastos e intereses de la deuda interna y externa.",
+			"funciones" : [
+				{ 
+					"funcion": "Servicios de la deuda pública",
+					"descripcion": ""
+				} 
+			]
+		}
+		,{
+			"finalidad" : "Administración Gubernamental",
+			"descripcion" : "Comprende las acciones propias al Estado destinadas al cumplimiento de las siguientes funciones: la legislativa, judicial, relaciones interiores y exteriores, administración fiscal, control de la gestión pública e información estadística básica.",
+			"funciones" : [
+				{ 
+					"funcion": "Legislativa",
+					"descripcion": "Ejercicio de facultades legislativas"
+				}
+				,{ 
+					"funcion": "Judicial",
+					"descripcion": "Ejercicio de facultades Judiciales y las acciones relacionadas con las mismas, excluyendo las acciones ejercidas por tribunales administrativos."
+				}				
+				,{ 
+					"funcion": "Dirección superior ejecutiva",
+					"descripcion": "Acciones de Administración general a cargo del gobernador, a través de la supervisión sobre la administración centralizada y descentralizada. Incluye, asimismo, este tipo de acciones desempeñadas por los Ministros y Secretarios del Poder Ejecutivo que abarquen más de una finalidad de este clasificador."
+				}				
+				,{ 
+					"funcion": "Relaciones interiores",
+					"descripcion": "Acciones relacionadas a las vinculaciones con los gobiernos municipales. Incluye el apoyo a las municipalidades y a otros entes comunales, considerando la participación de impuestos, de tasas, multas y de juegos de azar, asistencia financiera de carácter reintegrable y no reintegrable para determinados fines.",
+					"subfunciones": [
+						{
+							"subfuncion" : "Coparticipación impositiva y por Leyes Especiales",
+							"descripcion" : "Aplicación del actual sistema de coparticipación impositiva."
+						},
+						{
+							"subfuncion" : "Asistencia a municipios",
+							"descripcion" : "Asistencia financiera (reintegrable o no reintegrable) destinada a Municipios y entes comunales, para darles un apoyo económico-financiero, promoción y toda otra acción realizada por éstos."
+						}
+					]
+				}				
+				,{ 
+					"funcion": "Asuntos financieros y fiscales",
+					"descripcion": "Acciones relacionadas a:<ul><li>la programación, recaudación y control de los ingresos públicos</li><li>la programación e inversión de los fondos del Estado</li><li>el cuidado de los bienes y del patrimonio estatal</li><li>demás actividades financieras y fiscales.</li></ul>"
+				}				
+				,{ 
+					"funcion": "Control de la gestión pública",
+					"descripcion": "Acciones relacionadas al control interno y externo de la hacienda pública y al manejo de sus bienes y recursos."
+				}
+				,{ 
+					"funcion": "Información y estadísticas básicas",
+					"descripcion": "Acciones relacionadas a la producción de informaciones y del sistema estadístico, básicas para el interés general."
+				}
+			]
+		}
+		,{
+			"finalidad" : "Servicios De Defensa y Seguridad",
+			"descripcion" : "Comprende las acciones relacionadas a la defensa nacional, al mantenimiento del orden público interno y en las fronteras, costas y espacio aéreo y acciones relacionadas con el sistema penal.",
+			"funciones" : [
+				{ 
+					"funcion": "Seguridad",
+					"descripcion": "Acciones relacionadas a:<li>resguardar la seguridad de la población y de sus bienes</li><li>la prevención del delito y la violencia.</li></ul>"
+				} 
+				,{ 
+					"funcion": "Sistema penitenciario",
+					"descripcion": "Acciones relacionadas a la reclusión de personas en prisión preventiva o por condena, incluyendo el mantenimiento y atención de la salud psico-física de los reclusos."
+				} 
+				,{ 
+					"funcion": "Servicios de justicia",
+					"descripcion": "Acciones en apoyo a la Justicia de las diferentes áreas de la administración (con excepción del Poder Judicial). Incluye:<ul><li>aplicación de políticas sobre defensa de los derechos humanos y derechos a todos los niños y adolescentes</li><li>lucha contra la discriminación</li><li>asistencia a las víctimas del delito y violencia familiar</li><li>aplicación del poder de policía en toda la provincia.</li></ul>"
+				} 
+			]
+		}
+	]
+}
