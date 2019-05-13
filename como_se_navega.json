@@ -1,0 +1,9 @@
+{
+"como" : 
+		{
+				"uno":"<strong>Finalidades y Funciones sobre Finalidades:</strong><br><ul><li>El gráfico muestra por defecto cuáles son las objetivos que busca cumplir el Estado a través del gasto presupuestario, y la participación de cada uno de ellos sobre el total (valor relativo).</li><li>Pasando el mouse sobre una determinada finalidad, se puede visualizar información sobre su valor nominal (expresado en millones de pesos), e información de cada función que la compone.</li><li>Al hacer Click sobre una determinada finalidad, se abre un nuevo gráfico de rectángulos con la participación porcentual de cada una de sus funciones sobre el total de dicha finalidad.</li><li>Por defecto, se visualiza la información correspondiente al año 2019. Al hacer click sobre el botón de play ubicado debajo del gráfico, se observa la evolución de la variable seleccionada a través de los años, en el periodo que va de 2013 a 2019. </li<li>Para ver todos los años en un gráfico evolutivo, seleccioná la opción "Histórico".</li></ul><strong>Funciones sobre el total del presupuesto:</strong><br><ul><li>- Para visualizar el porcentaje de una determinada función sobre el total del presupuesto, activá la opción “Funciones sobre el total del presupuesto” ubicado al lado del título de la visualización.</li></ul><strong>Glosario:</strong><br><ul><li>Para conocer más sobre las finalidades y sus funciones, revisá el Glosario que se encuentra a la derecha del título de la visualización.</li></ul>"
+				"dos":"",
+				"tres":"",
+				"cuatro":""
+				}
+}
