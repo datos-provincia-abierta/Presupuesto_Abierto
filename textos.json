@@ -2,17 +2,17 @@
 "textos" : 
 		{
 			"texto_1":"Los 3 Mayores Valores",
-			"texto_2": "Presupuesto Abierto de la <strong>Provincia de Buenos Aires</strong>",
-			"texto_3": "La apertura y visualización del presupuesto es un aspecto fundamental de la transparencia activa. Creamos esta herramienta para facilitar la comprensión del ciudadano, fortaleciendo así la transparencia provincial.",
+			"texto_2":"Presupuesto Abierto de la <strong>Provincia de Buenos Aires</strong>",
+			"texto_3":"<br><br>La apertura y visualización de los datos presupuestarios es un aspecto fundamental de la transparencia activa.  Para facilitar la comprensión del ciudadano y fortalecer la transparencia provincial, generamos este espacio en donde podrás conocer el contenido de todas las leyes de Presupuesto sancionadas desde el año 2013.<br><br>El presupuesto es un plan de acción previsto para un determinado período que incluye los <strong>recursos y gastos necesarios para el logro de objetivos</strong> preestablecidos. Constituye una herramienta de planificación y acción del Estado, a partir de la cual se define el destino de cada ingreso con el objetivo de satisfacer las distintas necesidades de los ciudadanos.",
 			"texto_4":"Los Datos de 2019",
 			"texto_5":"Presioná cada burbuja para ver su detalle",
-			"texto_6":"Recursos",
+			"texto_6":"¿Qué son los <strong>Recursos</strong>?",
 			"texto_7":"Constituyen el sustento de la actividad del Estado, y permiten financiar los gastos de funcionamiento e inversión, atender las necesidades fundamentales y afrontar los compromisos de deuda, entre otras acciones.",
-			"texto_8":"Gastos",
+			"texto_8":"¿Qué son los <strong>Gastos</strong>?",
 			"texto_9":"Los gastos representan las salidas de dinero del Estado para adquirir los bienes y servicios que requiere la producción pública, o para transferir los recursos recaudados a los diferentes agentes económicos.",
 			"texto_10":"Visualizaciones",
 			"texto_11":"Constituidas con Datos pertenecientes al periodo de 2013 a 2019",
-			"texto_12":"Finalidades y Funciones sobre Finalidades",
+			"texto_12":"Finalidades y Funciones/Finalidades",
 			"texto_13":"Funciónes sobre el total del presupuesto"
 
 		}
