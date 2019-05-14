@@ -1,0 +1,51 @@
+{
+"ciclo" : 
+		{
+			"etapas" : 
+			[
+				{	
+				"numero":"1",
+				"nombre":"Planificacion",
+				"descripcion":"En la etapa de <strong>Planificación</strong> se determinan los <strong>objetivos</strong> que se pretenden alcanzar a través del presupuesto y el <strong>plan estratégico</strong> para lograrlo.",
+				"desde":"",
+				"hasta":"",
+				},				
+				{	
+				"numero":"2",
+				"nombre":"Formulación Presupuestaria",
+				"descripcion":"Durante la <strong>Formulación</strong>, se determinan los <strong>lineamientos políticos</strong> que surjan de la etapa de Planificación, para poder realizar un plan de acción. Posteriormente, se cuantifican las acciones presupuestarias incluidas en dicho plan.",
+				"desde":"",
+				"hasta":"",
+				},				
+				{	
+				"numero":"3",
+				"nombre":"Discusión y Aprobación",
+				"descripcion":"La etapa de <strong>Discusión y Aprobación</strong> se inicia con la recepción por parte de la <strong>Legislatura Provincial</strong> del <strong>proyecto de Presupuesto</strong> enviado por el Poder Ejecutivo, para luego ser analizado en comisiones y finalmente someter a votación su aprobación, con posibles modificaciones propuestas por el Poder Legislativo.",
+				"desde":"",
+				"hasta":"",
+				},				
+				{	
+				"numero":"4",
+				"nombre":"Programacion de la Gestion",
+				"descripcion":"En el proceso de <strong>Programación de la Gestión</strong> se determina los <strong>períodos en los cuales se asignarán cuotas para la ejecución presupuestaria</strong>, en función de los recursos disponibles y las demandas de cada categoría programática. En paralelo, se realiza el seguimiento y monitoreo del mismo para ajustar las distintas cuotas en los períodos establecidos del año (mensual, bimestral, trimestral, etc.).",
+				"desde":"",
+				"hasta":"",
+				},				
+				{	
+				"numero":"5",
+				"nombre":"Ejecución Presupuestaria",
+				"descripcion":"En el proceso de <strong>Ejecución</strong> se distribuyen los créditos presupuestarios una vez aprobada y promulgada la Ley.",
+				"desde":"",
+				"hasta":"",
+				},				
+				{	
+				"numero":"6",
+				"nombre":"Evaluación",
+				"descripcion":"El proceso de <strong>Evaluación</strong> consiste en el análisis de los datos financieros y físicos de la ejecución presupuestaria, en contraste con los cálculos realizados en el momento de la formulación, verificando el cumplimiento de los objetivos cualitativos y cuantificados. Mide la ejecución presupuestaria, analiza los desvíos respecto a lo programado, procura explicar los motivos de los mismos y culmina con la definición de acciones correctivas que retroalimenten el sistema.",
+				"desde":"",
+				"hasta":"",
+				},
+				
+			]
+		}
+}
