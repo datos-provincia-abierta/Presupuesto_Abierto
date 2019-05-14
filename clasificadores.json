@@ -11,11 +11,13 @@
 				"nombre_tipo":"Clasificadores válidos para todas las transacciones",
 				"clasificadores":[
 					{
+					"numero":"1",
 					"nombre":"¿Quién gasta?",
 					"subtitulo":"- Clasificador Institucional -",
 					"descripcion":"Permite ordenar las transacciones de acuerdo a la estructura organizativa del sector público. Determina a qué instituciones y áreas responsables se les asignan recursos y cuáles son las encargadas de ejecutarlos. Además, asigna las responsabilidades administrativas en todo el ciclo presupuestario"
 					},
 					{
+					"numero":"2",
 					"nombre":"¿Dónde se gasta?",
 					"subtitulo":"- Clasificador Geográfico -",
 					"descripcion":"Permite conocer la distribución espacial de las transacciones que realizan las instituciones públicas."
@@ -27,11 +29,13 @@
 				"nombre_tipo":"Clasificadores de Recursos",
 				"clasificadores":[
 					{
+					"numero":"3",
 					"nombre":"¿De dónde vienen los recursos?",
 					"subtitulo":"- Clasificador de Recursos por Rubro -",
 					"descripcion":"Permite conocer la naturaleza y el carácter de las transacciones que dan origen a los recursos públicos."
 					},
 					{
+					"numero":"4",
 					"nombre":"¿De que tipo son los recursos?",
 					"subtitulo":"- Clasificador Económico de Recursos -",
 					"descripcion":"Permite conocer la estructura y evolución del sistema tributario y de dónde proceden los ingresos públicos que serán destinados a cumplir ciertos objetivos."
@@ -44,26 +48,31 @@
 				"nombre_tipo":"Clasificadores de Gastos",
 				"clasificadores":[
 					{
+					"numero":"5",
 					"nombre":"¿En qué se gasta?",
 					"subtitulo":"- Clasificador por Objeto del Gasto -",
 					"descripcion":"Permite conocer qué clase de bienes y servicios se adquieren, las transferencias que se realizan y las variaciones de activos y pasivos previstas en el presupuesto."
 					},
 					{
+					"numero":"6",
 					"nombre":"¿Cuál es la naturaleza económica del gasto?",
 					"subtitulo":"- Clasificador Económico de Gastos -",
 					"descripcion":"Permite identificar el tipo de acciones que realiza el sector público, para poder evaluar el impacto que generan las acciones fiscales."
 					},
 					{
+					"numero":"7",
 					"nombre":"¿Para qué se gasta?",
 					"subtitulo":"- Clasificador de Gastos por Finalidad y Función -",
 					"descripcion":"Permite conocer el gasto público provincial según la naturaleza de los servicios que las instituciones públicas brindan a la comunidad. Se observan los objetivos generales y los medios a través de los cuales se estiman alcanzar éstos."
 					},
 					{
+					"numero":"8",
 					"nombre":"¿Cómo se financia?",
 					"subtitulo":"- Clasificador de Gastos por Fuente de Financiamiento -",
 					"descripcion":"Permite conocer cuáles son los gastos públicos según los tipos genéricos de recursos empleados para su financiamiento."
 					},
 					{
+					"numero":"9",
 					"nombre":"¿Cuánto se gasta en cada programa?",
 					"subtitulo":"- Clasificador de Gastos por Categorías de Programa -",
 					"descripcion":"Permite conocer cuántos recursos financieros se asignan a los programas, subprogramas, proyectos, actividades y obras del presupuesto."
