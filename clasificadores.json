@@ -1,0 +1,82 @@
+{
+"clasificadores" : 
+		{
+			"titulo":"¿Qué es un clasificador presupuestario?",
+			"bajada_1":"Es una herramienta normativa que agrupa los ingresos</strong> y <strong>gastos</strong> de acuerdo a distintos criterios. Permite organizar y mostrar las transacciones públicas, de modo que los ciudadanos conozcan en profundidad qué hace el sector público con los recursos públicos, y puedan analizar de manera más sencilla la información presupuestaria.",
+			"bajada_2":"Los clasificadores presupuestarios en su conjunto conforman <strong>un sistema integrado de información financiera del sector público</strong>, y es utilizado en cada una de las etapas del <strong>ciclo presupuestario</strong> por las instituciones públicas en particular, y el Estado Provincial en general.",
+			"bajada_3":"Se pueden agrupar en <strong>3 categorías</strong>. O bien, se pueden combinar de distintos modos cuando la información que ofrece un solo tipo de clasificación no es suficiente.",
+			"tipos" : 
+			[
+				{	
+				"nombre_tipo":"Clasificadores válidos para todas las transacciones",
+				"clasificadores":[
+					{
+					"nombre":"¿Quién gasta?",
+					"subtitulo":"- Clasificador Institucional -",
+					"descripcion":"Permite ordenar las transacciones de acuerdo a la estructura organizativa del sector público. Determina a qué instituciones y áreas responsables se les asignan recursos y cuáles son las encargadas de ejecutarlos. Además, asigna las responsabilidades administrativas en todo el ciclo presupuestario"
+					},
+					{
+					"nombre":"¿Dónde se gasta?",
+					"subtitulo":"- Clasificador Geográfico -",
+					"descripcion":"Permite conocer la distribución espacial de las transacciones que realizan las instituciones públicas."
+					}
+				
+				]
+				},
+				{	
+				"nombre_tipo":"Clasificadores de Recursos",
+				"clasificadores":[
+					{
+					"nombre":"¿De dónde vienen los recursos?",
+					"subtitulo":"- Clasificador de Recursos por Rubro -",
+					"descripcion":"Permite conocer la naturaleza y el carácter de las transacciones que dan origen a los recursos públicos."
+					},
+					{
+					"nombre":"¿De que tipo son los recursos?",
+					"subtitulo":"- Clasificador Económico de Recursos -",
+					"descripcion":"Permite conocer la estructura y evolución del sistema tributario y de dónde proceden los ingresos públicos que serán destinados a cumplir ciertos objetivos."
+					}
+				
+				]
+				},
+				
+				{	
+				"nombre_tipo":"Clasificadores de Gastos",
+				"clasificadores":[
+					{
+					"nombre":"¿En qué se gasta?",
+					"subtitulo":"- Clasificador por Objeto del Gasto -",
+					"descripcion":"Permite conocer qué clase de bienes y servicios se adquieren, las transferencias que se realizan y las variaciones de activos y pasivos previstas en el presupuesto."
+					},
+					{
+					"nombre":"¿Cuál es la naturaleza económica del gasto?",
+					"subtitulo":"- Clasificador Económico de Gastos -",
+					"descripcion":"Permite identificar el tipo de acciones que realiza el sector público, para poder evaluar el impacto que generan las acciones fiscales."
+					},
+					{
+					"nombre":"¿Para qué se gasta?",
+					"subtitulo":"- Clasificador de Gastos por Finalidad y Función -",
+					"descripcion":"Permite conocer el gasto público provincial según la naturaleza de los servicios que las instituciones públicas brindan a la comunidad. Se observan los objetivos generales y los medios a través de los cuales se estiman alcanzar éstos."
+					},
+					{
+					"nombre":"¿Cómo se financia?",
+					"subtitulo":"- Clasificador de Gastos por Fuente de Financiamiento -",
+					"descripcion":"Permite conocer cuáles son los gastos públicos según los tipos genéricos de recursos empleados para su financiamiento."
+					},
+					{
+					"nombre":"¿Cuánto se gasta en cada programa?",
+					"subtitulo":"- Clasificador de Gastos por Categorías de Programa -",
+					"descripcion":"Permite conocer cuántos recursos financieros se asignan a los programas, subprogramas, proyectos, actividades y obras del presupuesto."
+					}
+				
+				]
+				}
+				
+				
+			]
+			
+
+
+		}
+		
+}
