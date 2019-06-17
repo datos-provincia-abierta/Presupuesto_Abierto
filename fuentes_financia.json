@@ -1,0 +1,17 @@
+{
+"fuentes" : 
+	[
+		{
+			"fuente": "Rentas Generales",
+			"descripcion": "Financiamiento que se origina en: gravámenes impositivos fijados por el Estado Provincial; recursos no tributarios sin asignación específica; recaudaciones de coparticipación federal; crédito interno y externo; transferencias automáticas como discrecionales de personas, instituciones, gobiernos y organismos; cualquier otro tipo de financiamiento sin afectación específica."
+		}
+		,{
+			"fuente": "Recursos Propios",
+			"descripcion": "Incluye los ingresos que reciben los Organismos de la Administración, Empresas y Sociedades del Estado Provincial que provienen de: la venta de bienes y servicios; aportes y contribuciones; la renta de la propiedad; la venta de activos; el cobro de tasas, derechos, regalías y fondos que se originan como variaciones de los distintos tipos de activos financieros; el uso del crédito interno y externo. Cuando la Administración Central genere recursos por alguno de estos conceptos se los clasificará como parte de la fuente de Rentas Generales."
+		}
+		,{
+			"fuente": "Recursos con Afectación Específica",
+			"descripcion": "Incluye recursos para financiar instituciones, programas y actividades específicas de la Administración Provincial, de acuerdo a la legislación vigente. Incluye recursos provenientes de: regímenes nacionales por leyes especiales que determinan un destino específico; aportes no reintegrables de personas, instituciones, gobiernos y organismos (nacionales o extranjeros) con afectación determinada; crédito interno y externo cuyo destino determina la norma una afectación específica."
+		}
+	]
+}

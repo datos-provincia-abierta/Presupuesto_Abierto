@@ -1,0 +1,21 @@
+{
+"jurisdicciones" : 
+	[
+		{
+			"jurisdiccion": "Administración Central",
+			"descripcion": "<ul> <li>Gobernación <ul> <li>Secretaría General</li> <li>Secretaría Legal y Técnica</li> <li>Secretaría de Derechos Humanos</li> <li>Secretaría de Medios</li> </ul> </li> <li>Ministerio de Ciencia, Tecnología  e Innovación</li> <li>Ministerio de Gestión Cultural</li> <li>Ministerio de Justicia</li> <li>Ministerio de Seguridad</li> <li>Ministerio de Desarrollo Social</li> <li>Ministerio de Gobierno</li> <li>Ministerio de Trabajo</li> <li>Ministerio de Asuntos Públicos</li> <li>Ministerio de Producción <ul> <li>Crédito Específico</li> <li>Fondo Provincial de Puertos</li> </ul> </li> <li>Ministerio de Salud</li> <li>Ministerio de Agroindustria</li> <li>Ministerio de Infraestructura y Servicios Públicos</li> <li>Ministerio de Jefatura de Gabinete</li> <li>Ministerio de Economía</li> <li>Fiscalía de Estado</li> <li>Tribunal de Cuentas</li> <li>Contaduría General</li> <li>Tesorería General</li> <li>Servicio de la Deuda Pública</li> <li>Obligaciones a Cargo del Tesoro</li> <li>Poder Judicial <ul> <li>Administración de la Justicia</li> <li>Ministerio Público</li> </ul> </li> <li>Junta Electoral</li> <li>Consejo de la Magistratura</li> <li>Defensoría del Pueblo</li> </ul>"
+		}
+		,{
+			"jurisdiccion": "Organismos Descentralizados",
+			"descripcion": "<ul> <li>Patronato de Liberados Bonaerense</li> <li>Organismo Provincial para el Desarrollo Sostenible (OPDS)</li> <li>Organismo Provincial de Integración Social y Urbana (OPISU)</li> <li>Agencia de Recaudación de la Provincia de Buenos Aires (ARBA)</li> <li>Ente Administrador Astillero Río Santiago</li> <li>Corporación de Fomento del Valle Bonaerense del Río Colorado</li> <li>Dirección de Vialidad <ul> <li>Instituto de la Vivienda</li> <li>Organismo de Control de Energía Electricidad de la Provincia de Buenos Aires (OCEBA)</li> <li>Autoridad del Agua</li> <li>Comité de Cuenca del Río Reconquista (COMIREC)</li> </ul> </li> <li>Dirección General de Cultura y Educación <ul> <li>Universidad Provincial del Sudoeste</li> <li>Universidad Provincial de Ezeiza</li> </ul> </li> <li>Comisión de Investigaciones Científicas</li> </ul>"
+		}
+		,{
+			"jurisdiccion": "Organismos Descentralizados No Consolidados",
+			"descripcion": "<ul> <li>Instituto Provincial de Lotería y Casinos</li> <li>Caja de Jubilaciones, Subsidios y Pensiones del Personal del Banco de la Provincia de Buenos Aires</li> <li>Banco de la Provincia de Buenos Aires</li> <li>Instituto Obra Médico Asistencial (IOMA)</li> </ul>"
+		}
+		,{
+			"jurisdiccion": "Instituciones de Previsión Social",
+			"descripcion": " <ul> <li>Caja de Retiros, Jubilaciones y Pensiones de las Policías</li> <li>Instituto de Previsión Social (IPS)</li> </ul>"
+		}
+	]
+}
